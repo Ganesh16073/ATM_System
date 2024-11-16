@@ -32,7 +32,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Ganesh16073/ATM-Application.git
+git clone https://github.com/Ganesh16073/ATM_System.git
 cd ATM-Application
 Open in Eclipse:
 
